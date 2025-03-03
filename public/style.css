@@ -1,0 +1,85 @@
+body{
+    background-color: rgb(207, 207, 207);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.cima{
+   
+    display: flex;
+    background-color: rgb(0, 0, 0);
+    color: white; 
+    border-width: 3px;
+    border-color: white;
+    border-style: solid
+    
+    
+    
+   
+}
+
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.coluna{
+    flex: 1;
+    margin: 10px;
+    background-color: rgb(173, 173, 173);
+    border-style:double;
+   
+   
+   
+   
+
+}
+.letra{
+    text-align: center;
+    font-size: 22px;
+    background-color: black; width: 400px;
+    color: rgb(224, 224, 224);
+    border-style: solid;
+    border-color:gray
+    
+      
+}
+.letra2{
+    text-align: center;
+    font-size:17px;
+    background-color: black; width: 400px;
+    color: rgb(224, 224, 224);
+    border-style: solid;
+    border-color:gray
+    
+
+}
+
+
+.mover{
+    margin-top: 100px;
+    
+
+}
+img.telefone{
+    color: azure;
+    
+    margin-top: -0,1px;
+    margin-left: 500px;
+}
+
+.contato1{
+    text-align: center;
+    font-size:23px;
+    background-color: black; width: 400px;
+    color: rgb(224, 224, 224);
+    border-style: solid;
+    border-color:gray
+
+}
+.face{
+    border-style: solid;
+    border-width: 3px;
+    color: rgb(41, 40, 40);
+}
+    
+    
